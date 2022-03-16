@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning software engineering full stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- Public repo
-- No README, .gitignore, or license
+
 
 
 <!---
